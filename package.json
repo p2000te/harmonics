@@ -1,0 +1,29 @@
+{
+  "jspm": {
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "name": "harmonics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2000te/dev-ground.git/harmonics.git"
+  },
+  "keywords": [
+    "topology", "harmony", "counterpoint"
+  ],
+  "author": "Petar Temnishki <petar.temnishki@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p2000te/dev-ground.git%1B%5Bharmonics%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BB%1B/issues"
+  },
+  "homepage": "https://github.com/p2000te/dev-ground.git%1B%5Bharmonics%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5B3~%1B%5BC%1B%5BC%1B%5BC%1B%5BC%1B%5BB%1B#readme",
+  "description": ""
+}
